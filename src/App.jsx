@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import "./App.scss";
-import apiKey from "./components/config";
+import apiKey from "./config";
 import HideElements from "./components/HideElements";
 import ErroMessage from "./components/ErroMessage";
 import Loading from "./components/Loading";
